@@ -1,4 +1,4 @@
-# Route_Finder
+# Route Finder
 This program calculates the shortest flight route and plots it
 ## How to Run 
 **For macOs, open your terminal:**
