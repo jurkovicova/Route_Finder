@@ -2,6 +2,7 @@
 This program calculates the shortest flight route and plots it
 ## How to Run 
 **For macOs, open your terminal:**
+
 Step1
 ```
 g++ Caeli_Nova_Internship_Jurkovicova.cpp -std=c++11
