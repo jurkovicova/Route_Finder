@@ -1,5 +1,5 @@
 # Route Finder
-This program calculates the shortest flight route and plots it
+This program calculates and plots the shortest flight route between two airports
 ## How to Run 
 **For macOs, open your terminal:**
 
